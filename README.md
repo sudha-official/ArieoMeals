@@ -1,2 +1,2 @@
-# Food-Preference
+# ArieoMeals
 Employees Food Preference Application
